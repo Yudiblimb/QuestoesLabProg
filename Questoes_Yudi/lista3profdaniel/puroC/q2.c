@@ -80,7 +80,10 @@ int main(){
   if(distanciax_1 < distanciax_2){
       puts("O objeto x pertence a mesma classe do centroide 1");
       break;
-    }else{
+    }else if (distancia x_1 == distanciax_2){
+      puts("empatou as distancias");
+    }
+  else{
         puts("O objeto x pertence a mesma classe do centroide 2");
         break;
       }
