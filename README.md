@@ -9,6 +9,8 @@ Lista 2 - apenas algumas questões
 
 Lista 3 - metade das questões 
 
+Lista 4 - Todas as questões
+
 Desafio 01 — implementação do sistema de gerenciamento dos 8 armários utilizando operações bit a bit.
 
 
